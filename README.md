@@ -1,3 +1,7 @@
+## A Light and Smart Wearable Platform with Multimodal Foundation Model for Enhanced Spatial Reasoning in People with Blindness and Low Vision
+
+Project page: https://dktpt44.github.io/LV-GPT/
+
 # Academic Project Page Template
 This is an academic paper project page template, modified for my habits.
 
